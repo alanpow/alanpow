@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan P</h1>
 <h3 align="center">Master of Data Science @UBC</h3>
 
-<p align="center">
-  <img src="https://example.com/your-banner-image.jpg" alt="Profile Banner" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alanpow" target="blank">
@@ -15,10 +11,6 @@
 ## About Me
 
 I am a Data Scientist and Software Developer with a strong background in machine learning, data engineering, and software development. I recently completed my Master's in Data Science from the University of British Columbia, where I focused on topics such as neural networks, generative modeling, and ML Ops. I also hold an Honors Bachelor of Science from the University of Toronto, with a major in Statistics and minors in Mathematics and Cinema.
-
-<p align="center">
-  <img src="https://example.com/your-profile-image.jpg" alt="Alan Powichrowski" />
-</p>
 
 ## Skills
 
@@ -121,47 +113,4 @@ I am a Data Scientist and Software Developer with a strong background in machine
 - Developed a Flask web framework-based internal sales app, resulting in $25,000 weekly revenue increase.
 
 ### Was Wietmerschher Ambulanz (Poland) – Summer Intern
-*June 2019 – Aug 2019*
-- Optimized material yield in the fabrication shop by 10%.
-- Remodeled data structure for forecasting factory progress.
-
-## Projects
-
-### Autozen – Vehicle Valuation Engine & Pipeline
-![Autozen Project](https://example.com/autozen-project-image.jpg)
-- Conducted extensive EDA, feature engineering, and regression modeling for vehicle price prediction.
-- Developed data pipeline, API endpoints, and Streamlit dashboard for real-time data visualization.
-
-### American Statistics Association DataFest 2023 – Finalist
-![DataFest Project](https://example.com/datafest-project-image.jpg)
-- Performed sentiment analysis of American Bar Association cases to calculate pro bono legal services productivity.
-
-### 2025 Federal Election Prediction Report
-![Election Prediction Project](https://example.com/election-prediction-project-image.jpg)
-- Developed multinomial logistic regression models to forecast the 2025 Canadian federal election with high accuracy.
-
-## Leadership & Community Engagement
-
-### Phi Gamma Delta
-*President, Corresponding Secretary, Housing Superintendent (Jan 2019 – Apr 2022)*
-- Oversaw 50+ members, grew chapter size by 60%, increased member retention by 30%.
-- Managed $100,000+ budget and a $4.5 million property, reducing debts by $20,000.
-
-### Troost ILEAD Engineering Education Leadership – Summer Fellow
-*May 2021 – Aug 2021*
-- Achieved 60% growth in student body size and 80% increase in involvement through strategic leadership.
-
-### Cinema Studio Student Union – Executive Board Treasurer
-*May 2020 – July 2021*
-- Optimized budget allocation, cutting operational costs by 30%, and raised $30,000 for union initiatives.
-
-## Education
-
-### Masters of Data Science
-*University of British Columbia (Sept 2023 – June 2024)*  
-GPA: 4.2/4.3
-
-### Honors Bachelor of Science
-*University of Toronto (Sept 2018 – April 2023)*  
-Major in Statistics, Minor in Mathematics, Minor in Cinema  
-Distinctions
+*June 2019
