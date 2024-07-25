@@ -10,6 +10,9 @@
 
 ## ⚡What I'm Working On⚡
 
+- [**LLM Validation and Benchmarking**](https://github.com/alanpow/How_To_Validate_LLMs)
+  - Here is a personal project I am working on to see if there's a way to observe and track the productivity and performance of LLM in a practical setting, rather than an academic fashion. I want to see if I can track how coherent and productive LLMs are with certain Q&A prompts, see how well they answer the question, and how many iterations they need, etc.
+
 - [**BMW Pricing Prediction Project**](https://github.com/alanpow/bmw_price_predictions)
   - I am currently working on a BMW pricing model, focusing on creating a regression model using Scikit-learn. The project involves using Flask to develop an API and Streamlit to create a user interface where one can send requests to the Flask app. This project is driven by my interest in cars and the second-hand market, as well as my desire to practice deployment, as over 80% of statistics projects do not get deployed. I aim to learn proper pipelining and deployment techniques through this project.
 
