@@ -8,6 +8,11 @@
 </a>
 </p>
 
+## What I'm Working On
+
+### BMW Pricing Prediction Project
+- I am currently working on a BMW pricing model, focusing on creating a regression model using Scikit-learn. The project involves using Flask to develop an API and Streamlit to create a user interface where one can send requests to the Flask app. This project is driven by my interest in cars and the second-hand market, as well as my desire to practice deployment, as over 80% of statistics projects do not get deployed. I aim to learn proper pipelining and deployment techniques through this project.
+
 ## About Me
 
 I am a Data Scientist and Software Developer with a strong background in machine learning, data engineering, and software development. I recently completed my Master's in Data Science from the University of British Columbia, where I focused on topics such as neural networks, generative modeling, and ML Ops. I also hold an Honors Bachelor of Science from the University of Toronto, with a major in Statistics and minors in Mathematics and Cinema.
